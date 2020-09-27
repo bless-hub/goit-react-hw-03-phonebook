@@ -1,0 +1,22 @@
+.list {
+  list-style: none;
+  padding-left: 0;
+}
+.item {
+  border: 1px solid #aac;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+}
+
+.button {
+  cursor: pointer;
+  height: 30px;
+  border-radius: 5%;
+  border: 1px solid;
+}
+.button:active {
+  background-color: mediumturquoise;
+}
