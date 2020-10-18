@@ -82,13 +82,11 @@ export default class App extends Component {
           <ContactForm addContact={this.addContact} />
         </Container>
         <Container title="Contacts">
-          {visibleFilter.length > 0 && (
-            <Filter
-              title="Find"
-              value={filter}
-              onChangeFilter={this.changeFilter}
-            />
-          )}
+          <Filter
+            title="Find"
+            value={filter}
+            onChangeFilter={this.changeFilter}
+          />
           {contacts.length > 0 && (
             <ContactList
               contacts={visibleFilter}
