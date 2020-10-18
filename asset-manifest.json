@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goit-react-hw-03-phonebook/static/css/main.187ff22a.chunk.css",
-    "main.js": "/goit-react-hw-03-phonebook/static/js/main.dafc5832.chunk.js",
-    "main.js.map": "/goit-react-hw-03-phonebook/static/js/main.dafc5832.chunk.js.map",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.6514fe4a.chunk.js",
+    "main.js.map": "/goit-react-hw-03-phonebook/static/js/main.6514fe4a.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-03-phonebook/static/js/runtime-main.739edc23.js",
     "runtime-main.js.map": "/goit-react-hw-03-phonebook/static/js/runtime-main.739edc23.js.map",
     "static/js/2.2593a25f.chunk.js": "/goit-react-hw-03-phonebook/static/js/2.2593a25f.chunk.js",
     "static/js/2.2593a25f.chunk.js.map": "/goit-react-hw-03-phonebook/static/js/2.2593a25f.chunk.js.map",
     "index.html": "/goit-react-hw-03-phonebook/index.html",
-    "precache-manifest.37ce766dc27535b5f4c92ff3ec372c9b.js": "/goit-react-hw-03-phonebook/precache-manifest.37ce766dc27535b5f4c92ff3ec372c9b.js",
+    "precache-manifest.e02f0367f1ff9c6129376cef2d52568e.js": "/goit-react-hw-03-phonebook/precache-manifest.e02f0367f1ff9c6129376cef2d52568e.js",
     "service-worker.js": "/goit-react-hw-03-phonebook/service-worker.js",
     "static/css/main.187ff22a.chunk.css.map": "/goit-react-hw-03-phonebook/static/css/main.187ff22a.chunk.css.map",
     "static/js/2.2593a25f.chunk.js.LICENSE.txt": "/goit-react-hw-03-phonebook/static/js/2.2593a25f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.739edc23.js",
     "static/js/2.2593a25f.chunk.js",
     "static/css/main.187ff22a.chunk.css",
-    "static/js/main.dafc5832.chunk.js"
+    "static/js/main.6514fe4a.chunk.js"
   ]
 }
